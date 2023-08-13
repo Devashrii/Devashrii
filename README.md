@@ -34,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devashrii&show_icons=true&locale=en" alt="devashrii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devashrii&" alt="devashrii" /></p>
-![image](https://github.com/Devashrii/Devashrii/assets/141922260/d90aeaa6-e911-4c0a-955a-5cc2627aa348)
+
