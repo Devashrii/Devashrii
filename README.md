@@ -15,7 +15,7 @@
 - 📫 How to reach me **devashrihaware@gmail.com**
 
 - ⚡ Fun fact **I am a complete extrovert , feel free to reach out to me .**
-<img align="centre" alt="Coding" width="900" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Frdjc1ZTd2aWprMW5oZjd4cXZ5dDN2dnI5eWY1cnFwMTduaXkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="centre" alt="Coding" width="700" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Frdjc1ZTd2aWprMW5oZjd4cXZ5dDN2dnI5eWY1cnFwMTduaXkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 
