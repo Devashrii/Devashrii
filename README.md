@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devashri D Haware</h1>
 <h3 align="center">I am a fervent and enthusiastic aspiring developer</h3>
-<img align="right" alt="Coding" width="400" src="Data Coding GIF by Pudgy Penguins - Find & Share on GIPHY ">
+<img align="right" alt="Coding" width="400" src="Data Coding GIF by Pudgy Penguins - Find  Share on GIPHY ">
 
 
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **devashrihaware@gmail.com**
 
 - ⚡ Fun fact **I am a complete extrovert , feel free to reach out to me .**
-<img align="right" alt="Coding" width="400" src="Woman Coding GIF by Pluralsight - Find & Share on GIPHY">
+<img align="right" alt="Coding" width="400" src="Woman Coding GIF by Pluralsight - Find Share on GIPHY">
 
 
 
