@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devashri D Haware</h1>
 <h3 align="center">I am a fervent and enthusiastic aspiring developer</h3>
+<img align="right" alt="Coding" width="400" src="Data Coding GIF by Pudgy Penguins - Find & Share on GIPHY ">
+
+
 
 - 🔭 I’m currently working on **snakemocktry**
 
@@ -12,6 +15,9 @@
 - 📫 How to reach me **devashrihaware@gmail.com**
 
 - ⚡ Fun fact **I am a complete extrovert , feel free to reach out to me .**
+<img align="right" alt="Coding" width="400" src="Woman Coding GIF by Pluralsight - Find & Share on GIPHY">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +28,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devashrii&show_icons=true&locale=en&layout=compact" alt="devashrii" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devashrii&show_icons=true&locale=en" alt="devashrii" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devashrii&" alt="devashrii" /></p>
+![image](https://github.com/Devashrii/Devashrii/assets/141922260/d90aeaa6-e911-4c0a-955a-5cc2627aa348)
