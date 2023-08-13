@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devashri D Haware</h1>
 <h3 align="center">I am a fervent and enthusiastic aspiring developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k6n63zomef6cebjrd24rvspud565vu4mx8rx5vrj&ep=v1_gifs_related&rid=giphy.gif&ct=g ">
+<img align="centre" alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k6n63zomef6cebjrd24rvspud565vu4mx8rx5vrj&ep=v1_gifs_related&rid=giphy.gif&ct=g ">
 
 
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **devashrihaware@gmail.com**
 
 - ⚡ Fun fact **I am a complete extrovert , feel free to reach out to me .**
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Frdjc1ZTd2aWprMW5oZjd4cXZ5dDN2dnI5eWY1cnFwMTduaXkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="centre" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Frdjc1ZTd2aWprMW5oZjd4cXZ5dDN2dnI5eWY1cnFwMTduaXkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 
