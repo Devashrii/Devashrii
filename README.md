@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devashrii&show_icons=true&locale=en&layout=compact" alt="devashrii" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devashrii&show_icons=true&locale=en" alt="devashrii" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devashrii&show_icons=true&locale=en" alt="devashrii" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devashrii&" alt="devashrii" /></p>
 
