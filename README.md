@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="900" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k6n63zomef6cebjrd24rvspud565vu4mx8rx5vrj&ep=v1_gifs_related&rid=giphy.gif&ct=g ">
 
 
-  - 🔭 I’m currently working on **snakemocktry**
+  - 🔭 I’m currently working on **developig my skills and learning new aspects everyday**
 
   - 🌱 I’m currently learning **Data structures and Algorithms**
 
