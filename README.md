@@ -9,11 +9,11 @@
 
   - 📝 I regularly write articles on [https://github.com/Devashrii/Road_maps](https://github.com/Devashrii/Road_maps)
 
-  - 💬 Ask me about **c,c++,html**
+  - 💬 Ask me about **c,c++,html,javascript,php,python**
 
   - 📫 How to reach me **devashrihaware@gmail.com**
 
-  - ⚡ Fun fact **I am a complete extrovert , feel free to reach out to me .**
+  - ⚡ **I am a complete extrovert , feel free to reach out to me .**
                                           <img align="center" alt="Coding" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Frdjc1ZTd2aWprMW5oZjd4cXZ5dDN2dnI5eWY1cnFwMTduaXkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 
